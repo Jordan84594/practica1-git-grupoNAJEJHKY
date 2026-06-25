@@ -1,5 +1,4 @@
 # practica1-git-grupoNAJEJHKY
 practica con Github
 
-# Nombres 
-- Kevin , Juego videojuegos 
+Slogan de equpo: " El mejor equipo de software"
