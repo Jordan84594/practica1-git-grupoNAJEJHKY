@@ -7,3 +7,8 @@ Mi nombre es Juliana Estrada tengo 21 años y estudio en la Universidad Técnica
 practica con Github
 
 Slogan de equpo: " El mejor equipo de software"
+# Añadida presentacion de Neyder Altamirano
+- Neyder altamirano, Jugar futbol
+- kevin , Juegar videojuegos
+- Jordan, Correr
+- Juliana, escuchar musica
