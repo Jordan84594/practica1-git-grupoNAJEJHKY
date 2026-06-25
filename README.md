@@ -1,5 +1,4 @@
 # practica1-git-grupoNAJEJHKY
 practica con Github
 
-Jordan Huiracocha 
-mi pasatiempo favorito es correr
+Slogan de equpo: " El mejor equipo de software"
